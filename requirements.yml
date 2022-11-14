@@ -1,0 +1,13 @@
+name: analysis
+channels:
+  - conda-forge
+dependencies:
+  -root
+  -pip
+  -uproot
+  -pandas
+  -keras
+  -np_utils
+  -tensorflow
+  -matplotlib
+  -protobuf=3.18.0
