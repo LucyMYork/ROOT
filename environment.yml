@@ -17,5 +17,5 @@ dependencies:
   -matplotlib
   -protobuf=3.18.0
   -pip:
-     -vector 
-     -jupyterlab_latex
+    -vector 
+    -jupyterlab_latex
