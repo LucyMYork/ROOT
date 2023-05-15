@@ -15,6 +15,5 @@ dependencies:
   - np_utils
   - tensorflow
   - matplotlib
-  - protobuf=3.18.0
   - vector 
   - jupyterlab_latex
